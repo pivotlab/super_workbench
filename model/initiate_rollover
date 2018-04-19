@@ -11,9 +11,9 @@ Receiver
 Member
  transferring:FundMembership
  receiving:FundMembership
- usi:(http://dxa.gov.au/definition/trc/de7395)
+ usi:(https://super.shuck.io/define/de1)
  person:Person
- sex:(http://dxa.gov.au/definition/trc/de57)
+ sex:(https://super.shuck.io/define/de2)
  birthDate:(http://dxa.gov.au/definition/trc/de36)
  address:Address
  tfnProvided:(http://dxa.gov.au/definition/ss/de12710)
@@ -69,5 +69,4 @@ Email
  
 Phone
  usageCode:(http://dxa.gov.au/definition/trc/de53)
- areaCode:(http://dxa.gov.au/definition/trc/de48)
- number:(http://dxa.gov.au/definition/trc/de52)
+ number:(https://super.shuck.io/define/de3)
