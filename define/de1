@@ -1,0 +1,16 @@
+# Unique Superannuation Identifier
+
+## identifier
+de1
+
+## type
+
+string
+
+## definition
+
+The unique superannuation identifier is used for identifying the product within the fund which the member account belongs to.
+
+
+## facets
+- maxLength=250
