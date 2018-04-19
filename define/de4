@@ -9,11 +9,19 @@ int
 
 ## definition
 
-the definition
+Represents the status of a Hypertext Transfer Protocol request.
 
 ## guidance
 
-the guidance
+The first digit of the status code specifies one of five standard classes of responses, which are generally interpreted as:
+ 
+- 1xx: Information repsonses
+- 2xx: Success
+- 3xx: Redirect
+- 4xx: Client error
+- 5xx: Server error
+
+For more information about the codes [read the wiki article](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
 ## enumerations
 - 100
