@@ -10,6 +10,7 @@ Request
  /**
  The date the super product listing ends
  */
+ 
  end:(http://super.shuck.io/define/de5)
  name:(http://dxa.gov.au/definition/trc/de55)
  fund:Fund
