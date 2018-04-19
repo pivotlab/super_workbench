@@ -1,0 +1,19 @@
+# Date
+
+## identifier
+de5
+
+## type
+
+string
+
+## definition
+
+A specific day of a month in a year
+
+## guidance
+
+Represented in DD/MM/YYYY
+
+## facets
+- pattern=[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]
