@@ -5,6 +5,7 @@ Request
  /**
  The date the super product listing takes effect
  */
+ 
  start:(https://super.shuck.io/define/de5)
  /**
  The date the super product listing ends
