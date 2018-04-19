@@ -33,8 +33,8 @@ FundMembership
 Name and Value pair for any potential future needs
 */
 OtherDetails
- name:(https://super.shuck.io/define/de1)
- value:(https://super.shuck.io/define/de2)
+ name:string
+ value:string
  
 Sender
  organisation:Organisation
