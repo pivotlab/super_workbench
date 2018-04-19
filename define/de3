@@ -1,0 +1,16 @@
+# Phone number
+
+## identifier
+de3
+
+## type
+
+string
+
+## definition
+
+A number provided by a telephone service provider, used to uniquely identify a particular phone
+
+## facets
+- maxLength=16
+- pattern=([0-9a-zA-Z\s])*
