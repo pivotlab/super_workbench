@@ -1,0 +1,18 @@
+# Person Sex Code
+
+## identifier
+de2
+
+## type
+
+string
+
+## definition
+
+A code indicating the biological distinction between male and female as reported by a person or as determined by an interviewer.
+
+## enumerations
+- male
+- female
+- other
+- not specified
