@@ -12,4 +12,4 @@ string
 A specific day of a month in a year
 
 ## facets
-- pattern=\\d\\d\/\\d\\d\/\\d\\d\\d\\d
+- pattern=\d\d\/\d\d\/\d\d\d\d
