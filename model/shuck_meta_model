@@ -1,3 +1,4 @@
+package io.shuck
 shuck_meta_model
 // This is a comment
 // The first line of the model is the model name
