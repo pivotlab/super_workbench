@@ -1,0 +1,18 @@
+# Tax Account Code
+
+## identifier
+de7
+
+## type
+
+string
+
+## definition
+
+A code to indicate the type of an account
+
+## enumerations
+- Tax
+- Loan
+- Super
+- Excise
