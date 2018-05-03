@@ -6,7 +6,6 @@ Request
  reportingParty:ReportingParty
  
 
-
 Intermediary
  abn:(http://dxa.gov.au/definition/trc/de26)
 	taxAgentNumber:(http://dxa.gov.au/definition/trc/de217)
