@@ -11,8 +11,10 @@ string
 
 A code indicating the biological distinction between male and female as reported by a person or as determined by an interviewer.
 
-## enumerations
-- male
-- female
-- other
-- not specified
+## codes
+| Name | Letter |
+| ---- | ------ |
+| male | M |
+| female | F |
+| other | O |
+| not specified | X |
