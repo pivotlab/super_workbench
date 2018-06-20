@@ -7,7 +7,7 @@ Request
  
 
 Intermediary
- abn:(http://dxa.gov.au/definition/trc/de26)
+ ^abn:(http://dxa.gov.au/definition/trc/de26)
 	taxAgentNumber:(http://dxa.gov.au/definition/trc/de217)
  
 
