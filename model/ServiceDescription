@@ -4,9 +4,6 @@ ServiceDescription
 
 Service
  id:string
- name:string
- description:string
- pages:string[]
  versions:Version[]
  
  
