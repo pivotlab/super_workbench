@@ -4,7 +4,6 @@ ServiceDescription
 
 Service
  id:string
- agency:string
  name:string
  description:string
  pages:string[]
