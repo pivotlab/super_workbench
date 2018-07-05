@@ -3,9 +3,8 @@ ServiceDescription
 
 
 Service
- name:string
- description:string
- pages:string[]
+ id:String
+ agency:String
  revisions:Version[]
  
  
