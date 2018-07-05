@@ -6,7 +6,7 @@ Service
  name:string
  description:string
  pages:string[]
- versions:Version[]
+ revisions:Version[]
  
  
 Version
