@@ -1,34 +1,34 @@
 update_super_product
 
 Request
- sender:(http://dxa.gov.au/definition/trc/de26)
+ sender:(http://definitions.ausdx.io/definition/trc/de26)
  /**
  The date the super product listing takes effect
  */
  
- start:(https://super.shuck.io/define/de5)
+ start:(https://super.pivotlab.io/define/de5)
  /**
  The date the super product listing ends
  */
  
- end:(http://super.shuck.io/define/de5)
- name:(http://dxa.gov.au/definition/trc/de55)
+ end:(http://super.pivotlab.io/define/de5)
+ name:(http://definitions.ausdx.io/definition/trc/de55)
  fund:Fund
  
 Fund
- abn:(http://dxa.gov.au/definition/trc/de26)
- name:(http://dxa.gov.au/definition/trc/de55)
+ abn:(http://definitions.ausdx.io/definition/trc/de26)
+ name:(http://definitions.ausdx.io/definition/trc/de55)
  /**
  The fund's profile for secure transactions using ebMS3 web services
  */
- ebms3Profile:(http://dxa.gov.au/definition/trc/de13268)
+ ebms3Profile:(http://definitions.ausdx.io/definition/trc/de13268)
  /**
  The standard and version the fund is certified for
  */
- version:(http://dxa.gov.au/definition/trc/de13265)
+ version:(http://definitions.ausdx.io/definition/trc/de13265)
  product:Product[]
  
 Product
- //usi:(https://super.shuck.io/define/de1)
- restrictions:(http://dxa.gov.au/definition/trc/de13263)
+ //usi:(https://super.pivotlab.io/define/de1)
+ restrictions:(http://definitions.ausdx.io/definition/trc/de13263)
  
