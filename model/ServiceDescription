@@ -3,9 +3,12 @@ ServiceDescription
 
 
 Service
- id:String
- agency:String
- revisions:Version[]
+ id:string
+ agency:string
+ name:string
+ description:string
+ pages:string[]
+ versions:Version[]
  
  
 Version
