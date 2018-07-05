@@ -1,0 +1,23 @@
+package au.gov.dxa.service
+ServiceDescription
+
+
+Service
+ name:string
+ description:string
+ pages:string[]
+ versions:Version[]
+ 
+ 
+Version
+ date:string
+ time:string
+ author:string
+ content:Content
+ 
+ 
+Content
+ name:string
+ description:string
+ pages:string[]
+ 
