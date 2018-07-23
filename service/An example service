@@ -9,11 +9,3 @@ methods:
             param2: http://definitions.ausdx.io/definition/trc/de218
         body: https://super.pivotlab.io/api/model/payment_reference_number_request
         return: http://definitions.ausdx.io/definition/trc/de114
-        
-    Do another interesting thing:
-        description: The second interesting service
-        path: /doSomething
-        params:
-            param1: https://tour.pivotlab.io/define/de1
-        body: https://tour.pivotlab.io/api/model/rollover
-        return: http://definitions.ausdx.io/definition/trc/de114
