@@ -7,15 +7,15 @@ Request
  
 
 Intermediary
- ^abn:(http://dxa.gov.au/definition/trc/de26)
-	taxAgentNumber:(http://dxa.gov.au/definition/trc/de217)
+ ^abn:(http://definitions.ausdx.io/definition/trc/de26)
+	taxAgentNumber:(http://definitions.ausdx.io/definition/trc/de217)
  
 
 ReportingParty
- tfn:(http://dxa.gov.au/definition/trc/de27)
- abn:(http://dxa.gov.au/definition/trc/de26)
- accountIdentifier:(https://super.shuck.io/define/de6)
- accountCode:(https://super.shuck.io/define/de7)
- sequenceNumber:(https://super.shuck.io/define/de8)
- roleType:(http://dxa.gov.au/definition/trc/de13272)
+ tfn:(http://definitions.ausdx.io/definition/trc/de27)
+ abn:(http://definitions.ausdx.io/definition/trc/de26)
+ accountIdentifier:(https://super.pivotlab.io/define/de6)
+ accountCode:(https://super.pivotlab.io/define/de7)
+ sequenceNumber:(https://super.pivotlab.io/define/de8)
+ roleType:(http://definitions.ausdx.io/definition/trc/de13272)
  

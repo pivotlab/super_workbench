@@ -1,5 +1,5 @@
-package io.shuck
-shuck_meta_model
+package io.pivotlab
+pivotlab_meta_model
 // This is a comment
 // The first line of the model is the model name
 
@@ -16,15 +16,15 @@ shuck_meta_model
  Doccomments apply to whatever is immediately beneath them
  
  The first line of a class definition can't start with a space
- just like Shuck here.
+ just like PivotLab here.
 */
-Shuck
+PivotLab
  /*
  But member definitoins must be indented by a space.
  The name of the member 'model' comes first, followed by a colon ':'
  The type of the member comes next
  
- Shuck allows you to use these primitive types
+ PivotLab allows you to use these primitive types
  - int
  - float
  - string
@@ -38,7 +38,7 @@ Shuck
  You can make a member be an array, by putting'[]' after the type.
  This works for classes, primitive and definition types
  
- Shuck will automatically 'pluralise' the member name for arrays
+ PivotLab will automatically 'pluralise' the member name for arrays
  but only if the target technology names arrays (xml does, json doesn't)
  So, the member 'model' here, will be called 'models'
  */
