@@ -7,7 +7,7 @@ Request
  
 
 Intermediary
- ^abn:(http://definitions.ausdx.io/definition/trc/de26)
+ ^abn:(http://definitions.ausdx.io/definition/trc/de26)=12345
 	taxAgentNumber:(http://definitions.ausdx.io/definition/trc/de217)
  
 
